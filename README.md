@@ -7,4 +7,4 @@ This scraper is made using scrapy. The crawlers in "/INTS/spiders" use xpath to 
 Example result could be found in /INTS/Example - LINE TODAY.mp4 | Visualized with Flourish.
 
 Please give credit if you want to use and modify this program.
-- Joshua G. T. | https://www.linkedin.com/in/joshuagt7/
+Joshua G. T. | https://www.linkedin.com/in/joshuagt7/
