@@ -1,6 +1,6 @@
 # Indonesia Trending News Scraper
 
-A simple web scraper used to scrap trends data visualize trends and trends changes. The crawlers are targeting three Indonesian news sources, LINE TODAY, Antara News, and Detik.
+A simple web scraper used to scrap news headlines from various sites in order to visualise trend change. The crawlers are targeting three Indonesian news sources, LINE TODAY, Antara News, and Detik.
 
 This scraper is made using scrapy. The crawlers in "/INTS/spiders" use xpath to target the title of the news. To make scraping easier, I made a shell script to make the scraper run automatically every hour. 
 
